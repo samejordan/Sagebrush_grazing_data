@@ -1,2 +1,2 @@
 # Sagebrush_grazing_data
-Data from an ecological field sampling and modelling effort. These data were used in the analyses presented in a manuscript being submitted. Metadata is available from the corresponding author upon reasonable request. 
+Data from an ecological field sampling and modelling effort. These data were used in the analyses presented in a manuscript entitled "Livestock grazing reduces perennial grass abundance but does not affect richness or composition in big sagebrush plant communities" being submitted, and are here presented to comply with open data standards. Metadata is available in the manuscript and is available from the corresponding author upon reasonable request. 
